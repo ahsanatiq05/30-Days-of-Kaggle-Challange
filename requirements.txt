@@ -1,6 +1,0 @@
-timm
-torch
-torchvision
-matplotlib
-numpy
-pillow
